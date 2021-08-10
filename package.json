@@ -1,0 +1,21 @@
+{
+    "name": "pure-colors",
+    "displayName": "Pure Colors",
+    "description": "Dark vibrant theme using a restricted set of colors.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pure Colors - Neutral",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pure Colors - Neutral-color-theme.json"
+            }
+        ]
+    }
+}
