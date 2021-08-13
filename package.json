@@ -1,7 +1,8 @@
 {
     "name": "pure-colors",
-    "displayName": "Pure Colors",
-    "description": "Dark vibrant theme using a restricted set of colors.",
+    "publisher": "YPetremann",
+    "displayName": "Pure Colors #FA50",
+    "description": "Dark vibrant theme using a restricted set of colors using only 4 letter Hexadecimal with only F A 5 and 0.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.59.0"
