@@ -4,6 +4,15 @@
     "displayName": "Pure Colors #FA50",
     "description": "Dark vibrant theme using a restricted set of colors using only 4 letter Hexadecimal with only F A 5 and 0.",
     "version": "0.0.1",
+    "homepage": "https://github.com/YPetremann/pure-colors#readme",
+    "bugs": {
+        "url": "https://github.com/YPetremann/pure-colors/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YPetremann/pure-colors.git"
+    },
+    "license" : "MIT",
     "engines": {
         "vscode": "^1.59.0"
     },
